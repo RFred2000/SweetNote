@@ -1,0 +1,8 @@
+Flight details:
+Departure: John F. Kennedy International Airport (JFK) at 10:30 AM, flight DL123
+Arrival: Los Angeles International Airport (LAX) at 1:45 PM
+
+Hotel reservation:
+Accommodation: Hilton Los Angeles Airport
+Check-in: May 10th, check-out: May 15th
+Confirmation number: 123456789
